@@ -1,0 +1,27 @@
+{
+	"companyName": "Fixnix",
+	"typeOfIncidient": "Most",
+	"association":"employye",
+	"howwara": "Know it",
+	"personsInvolved": ["Me","you"],
+	"monetary_value":"text",
+	"authorities_know":"yes",
+	"nature":"worst",
+	"place":"text",
+	"rewardType":"self"
+}
+
+{
+	"company" : "",
+	"incident" : "",
+	"association" : "",
+	"aware" : "",
+	"fraud" : "",
+	"personsInvolved":"",
+	"periodofincident" : "",
+	"authorities_aware" : "",
+	"nature" : "",
+	"place" : "",
+	"attachment" : "",
+	"rewardType" : ""
+}
